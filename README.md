@@ -1,5 +1,3 @@
-# booking
-Alpha 
 iOSBookingManagementApp/
   ├── docs/
   ├── designs/
